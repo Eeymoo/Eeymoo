@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi Everyone 👋
 
-<!--
-**Eeymoo/Eeymoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eeymoo.
 
-Here are some ideas to get you started:
+I like Markdown and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can develop TS \ JS \ CSS \ Vue \ React. I can use Python, so I only know a little bit. But we can look up Python documentation anywhere.
+
+The editor I have been using for the longest time is vscode, and I have also been learning vim recently.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeymoo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eeymoo)](https://github.com/anuraghazra/github-readme-stats)
