@@ -1,6 +1,6 @@
 ## Hi Everyone 👋
 
-I'm Eeymoo.
+I'm Eeymoo(`/ˈiːmuː/`).
 
 I like Markdown and JavaScript.
 
