@@ -4,9 +4,31 @@ I'm Eeymoo(`/ˈiːmuː/`).
 
 I like Markdown and JavaScript.
 
-I can develop TS \ JS \ CSS \ Vue \ React. I can use Python, so I only know a little bit. But we can look up Python documentation anywhere.
+I can develop 
+<img style="height:1rem" src="https://cdn.simpleicons.org/typescript?viewbox=auto" /> TS \ 
+<img style="height:1rem" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> JS \ 
+<img style="height:1rem" src="https://cdn.simpleicons.org/css?viewbox=auto" /> CSS \ 
+<img style="height:1rem" src="https://cdn.simpleicons.org/vue.js?viewbox=auto" /> Vue \ 
+<img style="height:1rem" src="https://cdn.simpleicons.org/react?viewbox=auto" /> React. I can use 
+<img style="height:1rem" src="https://cdn.simpleicons.org/python?viewbox=auto" /> Python, so I only know a little bit. But we can look up 
+<img style="height:1rem" src="https://cdn.simpleicons.org/python?viewbox=auto" /> Python documentation anywhere.
 
 The editor I have been using for the longest time is vscode, and I have also been learning vim recently.
+
+<div style="diplay: flex">
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/css?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/vue.js?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/react?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/python?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/rss?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/ubuntu?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/debian?viewbox=auto" />
+  <img style="height: 1rem" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
+</div>
+
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=eeymoo)
 
 **Donate:**
 
